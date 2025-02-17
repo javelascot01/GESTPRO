@@ -1,0 +1,430 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|c:\\users\\b15-09m\\desktop\\ddi\\gestpro\\gestpro\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|solutionrelative:gestpro\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\gestpro\\view\\numeroperfilesproyecto.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|solutionrelative:gestpro\\view\\numeroperfilesproyecto.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\gestpro\\domain\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|solutionrelative:gestpro\\domain\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\gestpro\\view\\numeroperfilesproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|solutionrelative:gestpro\\view\\numeroperfilesproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|c:\\users\\b15-09m\\desktop\\ddi\\gestpro\\gestpro\\view\\informeproyectocoste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|solutionrelative:gestpro\\view\\informeproyectocoste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\gestpro\\view\\informeproyectocoste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|solutionrelative:gestpro\\view\\informeproyectocoste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\gestpro\\view\\informeproyectocoste.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|solutionrelative:gestpro\\view\\informeproyectocoste.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\gestpro\\persistence\\manages\\proyectoempleadomanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|solutionrelative:gestpro\\persistence\\manages\\proyectoempleadomanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\gestpro\\persistence\\manages\\usuariomanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|solutionrelative:gestpro\\persistence\\manages\\usuariomanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\gestpro\\domain\\proyectoempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|solutionrelative:gestpro\\domain\\proyectoempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\gestpro\\domain\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|solutionrelative:gestpro\\domain\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\gestpro\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|solutionrelative:gestpro\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\gestpro\\persistence\\dataset2.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|solutionrelative:gestpro\\persistence\\dataset2.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\gestpro\\persistence\\dbbroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|solutionrelative:gestpro\\persistence\\dbbroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\gestpro\\domain\\holiday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|solutionrelative:gestpro\\domain\\holiday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\gestpro\\persistence\\manages\\empleadomanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|solutionrelative:gestpro\\persistence\\manages\\empleadomanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\gestpro\\view\\pagusuario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|solutionrelative:gestpro\\view\\pagusuario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\gestpro\\persistence\\manages\\apimanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|solutionrelative:gestpro\\persistence\\manages\\apimanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\gestpro\\mint_4788111.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|solutionrelative:gestpro\\mint_4788111.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\gestpro\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|solutionrelative:gestpro\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\gestpro\\persistence\\proyectopersistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|solutionrelative:gestpro\\persistence\\proyectopersistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\gestpro\\domain\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|solutionrelative:gestpro\\domain\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\gestpro\\persistence\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|solutionrelative:gestpro\\persistence\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\gestpro\\view\\pagusuario.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|solutionrelative:gestpro\\view\\pagusuario.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\gestpro\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60B70FFD-8879-437A-BD06-0D5F930C79F9}|GESTPRO\\GESTPRO.csproj|solutionrelative:gestpro\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Proyecto.cs",
+              "DocumentMoniker": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\domain\\Proyecto.cs",
+              "RelativeDocumentMoniker": "GESTPRO\\domain\\Proyecto.cs",
+              "ToolTip": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\domain\\Proyecto.cs",
+              "RelativeToolTip": "GESTPRO\\domain\\Proyecto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwE8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:38:57.951Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DBBroker.cs",
+              "DocumentMoniker": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\persistence\\DBBroker.cs",
+              "RelativeDocumentMoniker": "GESTPRO\\persistence\\DBBroker.cs",
+              "ToolTip": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\persistence\\DBBroker.cs",
+              "RelativeToolTip": "GESTPRO\\persistence\\DBBroker.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIA9wCEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:08:40.383Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProyectoEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\domain\\ProyectoEmpleado.cs",
+              "RelativeDocumentMoniker": "GESTPRO\\domain\\ProyectoEmpleado.cs",
+              "ToolTip": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\domain\\ProyectoEmpleado.cs",
+              "RelativeToolTip": "GESTPRO\\domain\\ProyectoEmpleado.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwCoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:19:11.186Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InformeProyectoCoste.cs",
+              "DocumentMoniker": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\view\\InformeProyectoCoste.cs",
+              "RelativeDocumentMoniker": "GESTPRO\\view\\InformeProyectoCoste.cs",
+              "ToolTip": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\view\\InformeProyectoCoste.cs",
+              "RelativeToolTip": "GESTPRO\\view\\InformeProyectoCoste.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:14:52.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NumeroPerfilesProyecto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\view\\NumeroPerfilesProyecto.cs",
+              "RelativeDocumentMoniker": "GESTPRO\\view\\NumeroPerfilesProyecto.cs",
+              "ToolTip": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\view\\NumeroPerfilesProyecto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GESTPRO\\view\\NumeroPerfilesProyecto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:33:01.967Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataSet2.xsd",
+              "DocumentMoniker": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\persistence\\DataSet2.xsd",
+              "RelativeDocumentMoniker": "GESTPRO\\persistence\\DataSet2.xsd",
+              "ToolTip": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\persistence\\DataSet2.xsd",
+              "RelativeToolTip": "GESTPRO\\persistence\\DataSet2.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-02-11T12:31:42.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NumeroPerfilesProyecto.rpt",
+              "DocumentMoniker": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\view\\NumeroPerfilesProyecto.rpt",
+              "RelativeDocumentMoniker": "GESTPRO\\view\\NumeroPerfilesProyecto.rpt",
+              "ToolTip": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\view\\NumeroPerfilesProyecto.rpt",
+              "RelativeToolTip": "GESTPRO\\view\\NumeroPerfilesProyecto.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-02-11T12:30:04.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Holiday.cs",
+              "DocumentMoniker": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\domain\\Holiday.cs",
+              "RelativeDocumentMoniker": "GESTPRO\\domain\\Holiday.cs",
+              "ToolTip": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\domain\\Holiday.cs",
+              "RelativeToolTip": "GESTPRO\\domain\\Holiday.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:07:00.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "mint_4788111.png - PNG [128x128, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\mint_4788111.png",
+              "RelativeDocumentMoniker": "GESTPRO\\mint_4788111.png",
+              "ToolTip": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\mint_4788111.png - PNG [128x128, 32 bits, PNG]",
+              "RelativeToolTip": "GESTPRO\\mint_4788111.png - PNG [128x128, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-11T12:02:49.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InformeProyectoCoste.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\view\\InformeProyectoCoste.cs",
+              "RelativeDocumentMoniker": "GESTPRO\\view\\InformeProyectoCoste.cs",
+              "ToolTip": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\view\\InformeProyectoCoste.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GESTPRO\\view\\InformeProyectoCoste.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:02:40.403Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProyectoEmpleadoManage.cs",
+              "DocumentMoniker": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\persistence\\manages\\ProyectoEmpleadoManage.cs",
+              "RelativeDocumentMoniker": "GESTPRO\\persistence\\manages\\ProyectoEmpleadoManage.cs",
+              "ToolTip": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\persistence\\manages\\ProyectoEmpleadoManage.cs",
+              "RelativeToolTip": "GESTPRO\\persistence\\manages\\ProyectoEmpleadoManage.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowBUAAACbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:16:55.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\persistence\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "GESTPRO\\persistence\\DataSet1.xsd",
+              "ToolTip": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\persistence\\DataSet1.xsd",
+              "RelativeToolTip": "GESTPRO\\persistence\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-02-11T10:57:21.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InformeProyectoCoste.rpt",
+              "DocumentMoniker": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\view\\InformeProyectoCoste.rpt",
+              "RelativeDocumentMoniker": "GESTPRO\\view\\InformeProyectoCoste.rpt",
+              "ToolTip": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\view\\InformeProyectoCoste.rpt",
+              "RelativeToolTip": "GESTPRO\\view\\InformeProyectoCoste.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-02-11T10:56:13.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApiManage.cs",
+              "DocumentMoniker": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\persistence\\manages\\ApiManage.cs",
+              "RelativeDocumentMoniker": "GESTPRO\\persistence\\manages\\ApiManage.cs",
+              "ToolTip": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\persistence\\manages\\ApiManage.cs",
+              "RelativeToolTip": "GESTPRO\\persistence\\manages\\ApiManage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwBUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:32:52.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PagUsuario.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\view\\PagUsuario.xaml.cs",
+              "RelativeDocumentMoniker": "GESTPRO\\view\\PagUsuario.xaml.cs",
+              "ToolTip": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\view\\PagUsuario.xaml.cs",
+              "RelativeToolTip": "GESTPRO\\view\\PagUsuario.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA9wDIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:15:48.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PagUsuario.xaml",
+              "DocumentMoniker": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\view\\PagUsuario.xaml",
+              "RelativeDocumentMoniker": "GESTPRO\\view\\PagUsuario.xaml",
+              "ToolTip": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\view\\PagUsuario.xaml",
+              "RelativeToolTip": "GESTPRO\\view\\PagUsuario.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-28T11:02:09.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmpleadoManage.cs",
+              "DocumentMoniker": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\persistence\\manages\\EmpleadoManage.cs",
+              "RelativeDocumentMoniker": "GESTPRO\\persistence\\manages\\EmpleadoManage.cs",
+              "ToolTip": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\persistence\\manages\\EmpleadoManage.cs",
+              "RelativeToolTip": "GESTPRO\\persistence\\manages\\EmpleadoManage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:53:29.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\domain\\Empleado.cs",
+              "RelativeDocumentMoniker": "GESTPRO\\domain\\Empleado.cs",
+              "ToolTip": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\domain\\Empleado.cs",
+              "RelativeToolTip": "GESTPRO\\domain\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:53:19.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioManage.cs",
+              "DocumentMoniker": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\persistence\\manages\\UsuarioManage.cs",
+              "RelativeDocumentMoniker": "GESTPRO\\persistence\\manages\\UsuarioManage.cs",
+              "ToolTip": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\persistence\\manages\\UsuarioManage.cs",
+              "RelativeToolTip": "GESTPRO\\persistence\\manages\\UsuarioManage.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:01:38.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\domain\\Usuario.cs",
+              "RelativeDocumentMoniker": "GESTPRO\\domain\\Usuario.cs",
+              "ToolTip": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\domain\\Usuario.cs",
+              "RelativeToolTip": "GESTPRO\\domain\\Usuario.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T07:51:42.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\App.xaml.cs",
+              "RelativeDocumentMoniker": "GESTPRO\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\App.xaml.cs",
+              "RelativeToolTip": "GESTPRO\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:07:25.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\view\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GESTPRO\\view\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\view\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GESTPRO\\view\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAN0BAAAAAAAAAAAgwNkBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:07:17.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\App.xaml",
+              "RelativeDocumentMoniker": "GESTPRO\\App.xaml",
+              "ToolTip": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\App.xaml",
+              "RelativeToolTip": "GESTPRO\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-11T10:25:21.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\view\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GESTPRO\\view\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\view\\MainWindow.xaml",
+              "RelativeToolTip": "GESTPRO\\view\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T12:40:40.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProyectoPersistence.cs",
+              "DocumentMoniker": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\persistence\\ProyectoPersistence.cs",
+              "RelativeDocumentMoniker": "GESTPRO\\persistence\\ProyectoPersistence.cs",
+              "ToolTip": "C:\\Users\\b15-09m\\Desktop\\DDI\\GESTPRO\\GESTPRO\\persistence\\ProyectoPersistence.cs",
+              "RelativeToolTip": "GESTPRO\\persistence\\ProyectoPersistence.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:38:26.063Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
